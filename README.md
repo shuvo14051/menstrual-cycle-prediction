@@ -13,5 +13,5 @@ The dataset used in this project contains extensive information related to menst
 ## Acknowledgements
 - [Marquette University](https://epublications.marquette.edu/data_nfp/7/) for providing the original dataset.
 
-__Note:__ If the preview is not abailable. Copy the URL go to (nbviewer)[https://nbviewer.org/] and paste it.  
+__Note:__ If the preview is not available, copy the URL, go to [nbviewer](https://nbviewer.org/), and paste it.  
   
