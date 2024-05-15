@@ -13,5 +13,9 @@ The dataset used in this project contains extensive information related to menst
 ## Acknowledgements
 - [Marquette University](https://epublications.marquette.edu/data_nfp/7/) for providing the original dataset.
 
+## Code preview:
+If the code preview is not available you can find the codes here.
+- [Cycle-Clustering.ipynb](https://nbviewer.org/github/shuvo14051/menstrual-cycle-prediction/blob/master/Cycle-Clustering.ipynb)
+- 
 __Note:__ If the preview is not available, copy the URL, go to <a href="https://nbviewer.org/" target="_blank">nbviewer</a>, and paste it.  
   
